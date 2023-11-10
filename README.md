@@ -1,5 +1,5 @@
 # FPDetect
-Windows and Linux Based Applications of Filtering SNPs using Genomic Features and Quality Metrics
+Windows and Linux Based Applications of Filtering SNVs using Genomic Features and Quality Metrics
 
 
 
@@ -26,7 +26,7 @@ We shared an example input csv file. You will see the formatted csv named as "pr
 positive classes of the variants in the "proper_example_variants_identifiers.csv". After you run
 the program you can compare the actual classes and the predicted ones .
 
-Here example commands using this csv are shown below:
+The following are example commands using this csv file:
 
 WINDOWS:
 ```
