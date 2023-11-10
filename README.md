@@ -44,4 +44,4 @@ LINUX:
 ./false_positive_scorer_linux -i[--input] input.csv -o[--output] output.csv
 ```
 
-This application is licenced with Creative Commons Corporation and for commercial use please contact.
+This application is licenced with Creative Commons Corporation and for commercial use please contact; kvnceren@gmail.com, hukarakurt@gmail.com and cinaresra@yahoo.com
